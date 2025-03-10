@@ -1112,7 +1112,7 @@ div.corr p, .contentBox div.stud p, .contentBox div.doc p {
 }
 
 div.corr p, div.stud p, div.doc p {
-    padding: 10px 15px 10px 70px;
+    /* padding: 10px 15px 10px 70px; */
 }
 
 .stud ::before {
